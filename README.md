@@ -4,6 +4,7 @@ Display current playing file and scrolls the text with [zscroll](https://github.
 
 Very simple to edit and easily expandable.
 
+![](screenshots/mpv.gif)
 # Dependencies
 * [zscroll](https://github.com/noctuid/zscroll#installation)
 
