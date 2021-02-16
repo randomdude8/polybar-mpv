@@ -8,9 +8,9 @@ Very simple to edit and easily expandable.
 # Dependencies
 * [zscroll](https://github.com/noctuid/zscroll#installation)
 
-* [jq](https://stedolan.github.io/jq/download/)
+* [jq](https://stedolan.github.io/jq/download/) (probably available in your distros repo)
 
-* [socat](http://www.dest-unreach.org/socat/)
+* [socat](http://www.dest-unreach.org/socat/) (probably available in your distros repo)
 
 * Font Awesome (optional) if you want the default symbols i used.
 
