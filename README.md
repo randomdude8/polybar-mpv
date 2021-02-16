@@ -17,7 +17,7 @@ Very simple to edit and easily expandable.
 # Setup
 MAKE SURE ```enable-ipc enable-ipc = true``` is added in your bar config as well.
 
-```move mpv.sh & mpv-zscroll.sh to ~/.config/polybar/scripts/polybar-mpv```
+```move polybar-mpv to ~/.config/polybar/scripts/```
 
 * In your polybar config add
 ```
