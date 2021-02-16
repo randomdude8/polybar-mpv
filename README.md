@@ -15,7 +15,7 @@ Very simple to edit and easily expandable.
 * Font Awesome (optional) if you want the default symbols i used.
 
 # Setup
-MAKE SURE ```enable-ipc enable-ipc = true``` is added in your bar config as well.
+MAKE SURE ```enable-ipc = true``` is added in your bar config as well.
 
 ```move polybar-mpv to ~/.config/polybar/scripts/```
 
